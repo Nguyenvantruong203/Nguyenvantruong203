@@ -1,5 +1,5 @@
 <body>
-<h1 align="center">(づ｡◕‿‿◕｡)づ Welcome to my Profile</h1>
+<h1 align="center">(づ｡◕‿‿◕｡づ) Welcome to my Profile</h1>
 
 <br>
 <div align="center">
